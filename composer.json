@@ -19,7 +19,7 @@
         ]
     },
     "require": {
-        "tecnick.com/tcpdf": "6.2.*",
+        "tecnickcom/tcpdf": "6.2.*",
         "setasign/fpdi": ">=1.5.4"
     },
     "conflict": {
