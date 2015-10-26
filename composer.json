@@ -1,6 +1,6 @@
 {
     "name": "setasign/fpdi-tcpdf",
-    "version": "1.5.4",
+    "version": "1.6.0",
     "homepage": "https://www.setasign.com/fpdi",
     "description": "Kind of metadata package for dependencies of the latest versions of FPDI and TCPDF.",
     "type": "library",
