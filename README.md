@@ -4,7 +4,7 @@ A kind of metadata package for Composer with fixed dependencies for the latest v
 ## Installation with [Composer](https://packagist.org/packages/setasign/fpdi-tcpdf)
 
 ```bash
-$ composer require setasign/fpdi-tcpdf 1.6.0
+$ composer require setasign/fpdi-tcpdf:1.6.0
 ```
 
 or you can include the following in your composer.json file:
